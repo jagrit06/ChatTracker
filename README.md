@@ -1,6 +1,6 @@
 # ChatTracker
 
-This an implementation of a chatroom and user tracking system built in C++ as a project for my Data Structure and Algorithm's course
+This an implementation of a chatroom and user tracking system built in C++ as a project for my Data Structure and Algorithm's course. Its main focus was on the use of Data Structures and Algorithms when working with large amounts of data for application.
 
 The project objective was to design a system that can track thousands of chatrooms and users that join chatrooms in an efficient manner. We were not allowed to use any of the STL implementations of data structures hat use hashing, so I had to create my own implementation of a hash table for the project. 
 
